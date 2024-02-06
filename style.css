@@ -8,7 +8,7 @@ body {
 }
 
 #calculator {
-    background-color: rgb(226, 226, 226);
+    background-color: rgb(226, 226, 300);
     border-radius: 15px;
     max-width: 500px;
     overflow: hidden;
